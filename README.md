@@ -11,7 +11,7 @@ I am trying to diversify my knowledge in some fields, they include:
 
 ## Web Development
 - Currently particpating in a couple hackathons where I am trying to learn some backend development
-- Have worked mostly on frontend development in the past, like [SwipeHire](https://github.com/GavinRich02/BeGreen)
+- Have worked mostly on frontend development in the past, like [BeGreen](https://github.com/GavinRich02/BeGreen)
 - I have started using OpenAI's APIs and Google's Gemini API in my projects to improve their functionality.
 
 # 👬 Let's Collaborate

@@ -33,11 +33,14 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell Scriptin](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-blue?style=for-the-badge&logo=powershell&logoColor=white)
+
 
 ## 🎛️ Operating System
-![Linux (Kali, Ubuntu, Tails](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![KaliLinux](https://img.shields.io/badge/kalilinux-purple?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![TailsLinux](https://img.shields.io/badge/tails-yellow?style=for-the-badge&logo=tails&logoColor=black)
 
 
 ## 💬 Contact Me

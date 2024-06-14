@@ -9,7 +9,7 @@ I am trying to diversify my knowledge in some fields, they include:
 - I am also currently working in Minneapolis at Cretex as a IT Security Engineer Intern which has given me a lot of hands on experiance in the cyber-sec realm 
   
 
-## Web Development
+## Software & Web Development
 - Currently particpating in a couple hackathons where I am trying to learn some backend development
 - Have worked mostly on frontend development in the past, like [BeGreen](https://github.com/GavinRich02/BeGreen)
 - I have started using OpenAI's APIs and Google's Gemini API in my projects to improve their functionality.

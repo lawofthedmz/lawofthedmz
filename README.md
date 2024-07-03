@@ -58,4 +58,4 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murphy-glawe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murphg04@gmail.com)
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lawofthedmz/lawofthedmz/blob/output/github-contribution-grid-snake.svg)

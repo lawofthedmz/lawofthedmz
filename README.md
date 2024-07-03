@@ -57,7 +57,5 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ## 💬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murphy-glawe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murphg04@gmail.com)
-<!---
-KAUSSHIK/KAUSSHIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img src="https://raw.githubusercontent.com/IdkwhatImD0ing/lawofthedmz/output/snake.svg" alt="Snake animation" />

@@ -30,6 +30,8 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ![KaliLinux](https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![TailsLinux](https://img.shields.io/badge/tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ## Front-End Tools and Frameworks
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white)
@@ -53,10 +55,6 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![auth0](https://img.shields.io/badge/auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![gitforwindows](https://img.shields.io/badge/gitforwindows-80B3FF?style=for-the-badge&logo=gitforwindows&logoColor=white)
-
-
-
-
 
 ## 💬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murphy-glawe)

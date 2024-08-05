@@ -17,6 +17,7 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,9 +27,9 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![KaliLinux](https://img.shields.io/badge/kalilinux-purple?style=for-the-badge&logo=kalilinux&logoColor=white)
+![KaliLinux](https://img.shields.io/badge/kalilinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![TailsLinux](https://img.shields.io/badge/tails-yellow?style=for-the-badge&logo=tails&logoColor=black)
+![TailsLinux](https://img.shields.io/badge/tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
 
 ## Front-End Tools and Frameworks
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white)
@@ -51,6 +52,8 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![auth0](https://img.shields.io/badge/auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![gitforwindows](https://img.shields.io/badge/gitforwindows-80B3FF?style=for-the-badge&logo=gitforwindows&logoColor=white)
+
 
 
 

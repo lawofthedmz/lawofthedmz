@@ -2,18 +2,6 @@
 ## A little bit about me
 I am a Cyber Security "Engineer" passionate about all things in the field of technology and cybersecurity. I love learning new things and putting myslef in places to try something new!
 
-# 👀 [What I am working on](https://github.com/lawofthedmz?tab=repositories)
-I am trying to diversify my knowledge in some fields, they include:
-## Cybersecurity 
-- Currently studying for a few certifications that include: Security+, Azure Fundamentals, and some ISC^2 certificates
-- I am also currently working in Minneapolis at Cretex as a IT Security Engineer Intern which has given me a lot of hands on experiance in the cyber-sec realm 
-  
-
-## Software & Web Development
-- Currently particpating in a couple hackathons where I am trying to learn some backend development
-- Have worked mostly on frontend development in the past, like [BeGreen](https://github.com/GavinRich02/BeGreen)
-- I have started using OpenAI's APIs and Google's Gemini API in my projects to improve their functionality.
-
 # 👬 Let's Collaborate
 Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/murphy-glawe/) or email me at [murphg04@gmail.com](mailto:murphg04@gmail.com) so we can collarborate on a project or just chat!
 

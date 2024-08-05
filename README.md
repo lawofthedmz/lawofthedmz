@@ -24,15 +24,18 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-blue?style=for-the-badge&logo=powershell&logoColor=white)
 
 
-## Operating System
+## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![KaliLinux](https://img.shields.io/badge/kalilinux-purple?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![TailsLinux](https://img.shields.io/badge/tails-yellow?style=for-the-badge&logo=tails&logoColor=black)
 
-## Front-End Tools
+## Front-End Tools and Frameworks
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Next js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=%23F7DF1E)
+![chakraui](https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)
 
 
@@ -40,6 +43,16 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 ![GPT API](https://img.shields.io/badge/GPT_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=flask&logoColor=tan)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?style=for-the-badge&logo=Supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+## Other
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
+![auth0](https://img.shields.io/badge/auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+
 
 
 ## 💬 Contact Me

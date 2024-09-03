@@ -1,9 +1,9 @@
 # 👋 Hello, I'm [Murphy Glawe](https://www.murphyglawe.com)!
 ## A little bit about me
-I am a Cyber Security "Engineer" passionate about all things in the field of technology and cybersecurity. I love learning new things and putting myslef in places to try something new!
+I am a Cyber Security "Engineer" passionate about all things in the field of technology and cybersecurity. I love learning new things and putting myself in places to try something new!
 
 # 👬 Let's Collaborate
-Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/murphy-glawe/) or email me at [murphg04@gmail.com](mailto:murphg04@gmail.com) so we can collarborate on a project or just chat!
+Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/murphy-glawe/) or email me at [murphg04@gmail.com](mailto:murphg04@gmail.com) so we can collaborate on a project or just chat!
 
 
 # 📊 GitHub Stats
@@ -60,4 +60,4 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murphy-glawe)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murphg04@gmail.com)
 
-[comment]: <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lawofthedmz/lawofthedmz/output/github-contribution-grid-snake-dark.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/lawofthedmz/lawofthedmz/output/github-contribution-grid-snake-dark.svg" />

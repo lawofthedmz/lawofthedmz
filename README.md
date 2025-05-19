@@ -9,9 +9,9 @@ Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/mu
 # 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawofthedmz&layout=donut&theme=dark)](https://github.com/lawofthedmz/github-readme-stats)
 
-[![Murphy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lawofthedmz&theme=xcode)](https://github.com/lawofthedmz)
+// [![Murphy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lawofthedmz&theme=xcode)]// // (https://github.com/lawofthedmz)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lawofthedmz&theme=dark)](https://git.io/streak-stats)
+// [![GitHub Streak](https://streak-stats.demolab.com/?user=lawofthedmz&theme=dark)](https://git.io/streak-stats)
 
 #  My Skills
 ## Languages

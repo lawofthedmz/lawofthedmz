@@ -5,11 +5,6 @@ I am a Cyber Security "Engineer" passionate about all things in the field of tec
 # 👬 Let's Collaborate
 Please feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/murphy-glawe/) or email me at [murphg04@gmail.com](mailto:murphg04@gmail.com) so we can collaborate on a project or just chat!
 
-
-# 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawofthedmz&layout=donut&theme=dark)](https://github.com/lawofthedmz/github-readme-stats)
-
-
 #  My Skills
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
